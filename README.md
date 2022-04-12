@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Visual Studio Code" width="48px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg" />
 <img align="left" alt="Selenium" width="48px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" /> 
 <img align="left" alt="Heroku" width="48px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" /> 
-<img align="left" alt="Postman" width="48px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" /> 
-https://www.google.com/search?q=postman+api&tbm=isch&chips=q:postman+api,g_1:logo:ijAsngAXN20%3D&hl=en&sa=X&ved=2ahUKEwj0v_qavI_3AhWYo3IEHayeA1EQ4lYoAHoECAEQHg&biw=721&bih=866#imgrc=pYRI2bxAZHw0YM
+<img align="left" alt="Postman" width="48px" src="" /> 
+
