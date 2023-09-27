@@ -6,7 +6,7 @@
 - ⚡️ Fun fact: I'm a TCG player, Kpop stan, seemstress, DJ, book worm, foodie, crafty king, gym bro, cat lover, performer and an aspiring digital nomad.
 - 📫 How to reach me:
   <p>
-  <a href="mailto:iamallanation@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:allanpaullopez1@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/allanation/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </p>
 - ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
