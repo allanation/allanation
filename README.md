@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning how to use Realm by MongoDB.
 - 🤔 I’m looking for help with aceing the coding interview.
 - 💬 Ask me about my future personal projects.
-- ⚡️ Fun fact: I'm a TCG player, Kpop stan, seemstress, DJ, book worm, foodie, crafty king, gym bro, cat lover, performer and an aspiring digital nomad.
 - 📫 How to reach me:
   <p>
   <a href="mailto:allanpaullopez1@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
