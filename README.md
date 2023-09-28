@@ -1,6 +1,6 @@
 ## Hi, I'm Allan ✨
 - 🔭 I’m currently working on job hunting.
-- 🌱 I’m currently learning how to use Realm by MongoDB.
+- 🌱 I’m currently learning how to release an app.
 - 🤔 I’m looking for help with aceing the coding interview.
 - 💬 Ask me about my future personal projects.
 - 📫 How to reach me:
